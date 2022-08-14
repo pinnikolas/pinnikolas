@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikolay</h1>
 <h3 align="center">A passionate Frontend Developer from Belarus</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinnikolas" alt="pinnikolas" /></a> </p>
 
 - 🔭 I’m currently working on [Wood-Multipager](https://pinnikolas.github.io/Wood-multipager/)
 
