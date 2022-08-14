@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikolay</h1>
 <h3 align="center">A passionate Frontend Developer from Belarus</h3>
+<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"></>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinnikolas&label=Profile%20views&color=0e75b6&style=flat" alt="pinnikolas" /> </p>
 
 - 🔭 I’m currently working on [Wood-Multipager](https://pinnikolas.github.io/Wood-multipager/)
 
@@ -28,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinnikolas&show_icons=true&locale=en&layout=compact" alt="pinnikolas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pinnikolas&show_icons=true&locale=en" alt="pinnikolas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinnikolas&" alt="pinnikolas" /></p>
