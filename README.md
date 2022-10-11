@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinnikolas&label=Profile%20views&color=0e75b6&style=flat" alt="pinnikolas" /> </p>
 
-- 🔭 I’m currently working on [Cornelia-Landing](https://pinnikolas.github.io/Cornella-Landing/)
+- 🔭 I’m currently working on [IceBird](https://github.com/pinnikolas/IceBird)
 
 - 🌱 I’m currently learning **JavaScript, React JS, Freecodecamp**
 
